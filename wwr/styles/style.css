@@ -1,4 +1,4 @@
-@import "site-plan-rafting.css";
+/*@import "site-plan-rafting.css";*/
 
 #contect{
     max-width: 1600px;
@@ -50,6 +50,9 @@ nav a{
 }
 nav{
     background-color: #a4c3b2;
+    text-align: left;
+    height: auto;
+    padding: 35px;
 }
 footer{
     width: 100%;
