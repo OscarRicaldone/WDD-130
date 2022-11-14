@@ -310,6 +310,8 @@ height: 100px;
     background-color: #e3ece7;
     padding: 30px;
     
+   
+    
 }
 .column4-grid img{
     width: 400px;
@@ -318,4 +320,30 @@ height: 100px;
     box-shadow: 10px 10px 5px #aaaaaa;
     transform: rotate(-5deg);
 }
-
+.column4-grid ul{
+    text-align: center;
+ }
+.column4-grid li{
+   padding: 15px;
+}
+.column4-grid textarea{
+    width: 600px;
+    height: 200px;
+ }
+ .column4-grid form{
+    width: 100%;
+    
+ }
+#feedback {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .5em;
+    /* make this element invisible until we are ready for it */
+    display: none;      
+}
+.moveDown {
+    margin-top: 3em;
+}
