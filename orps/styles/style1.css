@@ -85,6 +85,13 @@ footer{
   opacity: 0.4;
   
 }
+#ImageLogoSP{
+  float: right;
+  width: 500px;
+  margin-top: -50px;
+  opacity: 0.4;
+  
+}
 
 
 /*---------------------------------------------------------------------------Things from home page mainly*/
